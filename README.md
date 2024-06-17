@@ -7,6 +7,7 @@
 Disable the right-click lock in your HTML code to protect your text and images on,
 for example, your Github.io pages. As it should be!
 ```
+
 ---
 
 ```yarn
@@ -15,13 +16,15 @@ Insert the script after your head for more security.
 
 | EXAMPLE |
 |---|
-
+```yarn
 <head>
   <title>YOUR_SITE_TITLE</title>
 ...
 ...
 ...
 </head>
+```
+---
 
 | SCRIPT |
 |---|
@@ -59,3 +62,4 @@ document.onclick=reEnable
 </script>
 <!-- LOCK END -->
 ```
+---
