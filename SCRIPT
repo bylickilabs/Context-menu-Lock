@@ -1,4 +1,3 @@
-<!-- LOCK BEGIN -->
 <script language="JavaScript1.2">
 function disableselect(e){
 return false
@@ -28,4 +27,3 @@ document.onmousedown=disableselect
 document.onclick=reEnable
 }
 </script>
-<!-- LOCK END -->
