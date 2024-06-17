@@ -9,10 +9,13 @@
 
 > [!NOTE]
 > Useful information to protect your texts and images!
+
 > [!TIP]
 > Make your site and/or your pages even better.
+
 > [!IMPORTANT]
 > The code protects you and your pages
+
 > [!WARNING]
 > Not 100% secure
 
