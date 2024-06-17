@@ -3,7 +3,7 @@
 
 ### Disable the right-click lock in your HTML code
 
-- [✅] HTML Ready
+- ✅HTML Ready
 - [ ] Current problems
 - [ ] Miscellaneous
 
