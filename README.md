@@ -25,7 +25,7 @@ Disable the right-click lock in your HTML code to protect your text and images o
 for example, your Github.io pages. As it should be!
 ```
 
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 ```yarn
 Insert the script after your head for more security.
@@ -41,4 +41,4 @@ Insert the script after your head for more security.
 ...
 </head>
 ```
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
